@@ -1,5 +1,5 @@
 # Youtube-video-growth
-Final project for STATS102C
+Final project for STATS102C (Acheived 4th Place out of 40 teams, All work was done in Rstudio then transferred to GitHub)
 
 COMPETITION
 
